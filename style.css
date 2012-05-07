@@ -1,0 +1,22 @@
+body {
+margin : 0;
+padding : 0;
+line-height :130%;
+}
+.hl {
+background : #A6E5A4;
+border-bottom : 1px solid #89BC87;
+padding : 2px;
+color: #476146;
+font-weight: bold
+}
+.hl2 {
+background : #A6E5A4;
+border-top : 1px solid #89BC87;
+padding : 2px;
+color: #476146;
+font-weight: bold
+}
+.txt {
+margin : 6px;
+}
