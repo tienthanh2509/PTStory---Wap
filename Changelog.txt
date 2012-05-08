@@ -1,0 +1,24 @@
+﻿########################################################################
+########################################################################
+Phiên bản đầu tiên 1.0
+Các tính năng cơ bản: tải lên, tải xuống, top, tìm kiếm, danh sách mới tải lên
+
+########################################################################
+Ver: 1.1	16/4/2012
+[Add] Mp3 Cutter
+[Add] Jad Maker
+[Add] Check jar
+[Fix] Fix Bug
+[Fix] Clean code
+[Mod] Top, Download, Search System
+[Mod] Cache System
+[Update] Update Library PClzip, Pear, MP3 ID
+[Add] Thumbnail Image Generator 1.3
+[Add] Term of Service
+Ver: 1.2	17/4/2012
+[Add] File Password Protect
+[Add] Easy Abuse System
+[Add] Extract file zip, jar [limit ext ($limitedext) in config.php]
+		6/5/12
+[Fix] Fix cache dellete (remove)
+########################################################################
